@@ -1,12 +1,12 @@
 main:
 
-  - title: Enhanced Neural Video Compression for Cloud Gaming Videos with Aligned Frame Generation
+  - title: "Enhanced Neural Video Compression for Cloud Gaming Videos with Aligned Frame Generation"
     authors: Yifan Wang, <strong>Fei Yang</strong>, Luka Murn, Juil Sock, Marc Gorriz Blanch, Shuai Wan, Wei Zhang, Fuzheng Yang, Luis Herranz
     conference: Expert Systems with Applications, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S0957417424024023
     image: ./assets/img/yifan25.png
 
-  - title: Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier
+  - title: "Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier"
     authors: Kai Wang, <strong>Fei Yang</strong>, Bogdan Raducanu, Joost van de Weijer
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025.
@@ -14,26 +14,23 @@ main:
     code: https://github.com/wangkai930418/mc_ti
     image: ./assets/img/kai25.png
   
-  - title: A Slimmable Framework for Practical Neural Video Compression
+  - title: "A Slimmable Framework for Practical Neural Video Compression"
     authors: Zhaocheng Liu, <strong>Fei Yang</strong>, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
     conference: Neurocomputing, 2024.
     pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
     image: ./assets/img/zhaocheng24.png
 
-  - title: Rate Control for Slimmable Video Codec using Multilayer Perceptron
+  - title: "Rate Control for Slimmable Video Codec using Multilayer Perceptron"
     authors: Defa Wang, Zhiwei Zhu, Shuai Wan, <strong>Fei Yang</strong>, Luis Herranz
     conference_short: ISCAS
     conference: IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10558606
     image: ./assets/img/defa24.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Slimmable Compressive Autoencoder for Practical Neural Image Compression"
+    authors: <strong>Fei Yang</strong>, Luis Herranz, Yongmei Cheng, Mikhail G Mozerov
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
+    pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Slimmable_Compressive_Autoencoders_for_Practical_Neural_Image_Compression_CVPR_2021_paper.html
+    code: https://github.com/FireFYF/SlimCAE
+    image: ./assets/img/fei21.png
