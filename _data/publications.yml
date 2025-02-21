@@ -5,6 +5,12 @@ main:
     journal: Expert Systems with Applications.
     pdf: https://www.sciencedirect.com/science/article/pii/S0957417424024023
     image: ./assets/img/yifan25.png
+  
+  - title: A Slimmable Framework for Practical Neural Video Compression
+    authors: Zhaocheng Liu, Fei Yang, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
+    journal: Neurocomputing.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
+    image: ./assets/img/zhaocheng24.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
