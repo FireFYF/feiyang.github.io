@@ -12,6 +12,21 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
     image: ./assets/img/zhaocheng24.png
 
+  - title: Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier
+    authors: Kai Wang, <strong>Fei Yang</strong>, Bogdan Raducanu, Joost van de Weijer
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.22317
+    code: https://github.com/wangkai930418/mc_ti
+    image: ./assets/img/kai25.png
+
+  - title: Rate Control for Slimmable Video Codec using Multilayer Perceptron
+    authors: Defa Wang, Zhiwei Zhu, Shuai Wan, <strong>Fei Yang</strong>, Luis Herranz
+    conference_short: ISCAS
+    conference: 2024 IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10558606
+    image: ./assets/img/defa24.png
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
