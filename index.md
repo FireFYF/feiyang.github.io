@@ -13,7 +13,7 @@ I received my Ph.D. from the Autonomous University of Barcelona and later worked
 - **[Oct. 2024]** Our paper about diffusion model is accepted to WACV 2025.
 - **[July 2024]** Our paper about video compression is accepted to Neurocomputing.
 - **[May. 2024]** Our paper about image colorization is accepted by IEEE Trans. on Visualization and Computer Graphics.
-- ......
+-  ... ...
 
 {% include_relative _includes/publications.md %}
 
