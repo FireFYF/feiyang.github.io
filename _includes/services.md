@@ -15,6 +15,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-  <li><a href=""><autocolor>IIEEE Transaction on Geoscience and Remote Sensing (TGRS)</autocolor></a></li>
-  <li><a href=""><autocolor>EEE transaction on communications (TOC)</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE Transaction on Geoscience and Remote Sensing (TGRS)</autocolor></a></li>
+  <li><a href=""><autocolor>IEEE transaction on communications (TOC)</autocolor></a></li>
 </ul>
