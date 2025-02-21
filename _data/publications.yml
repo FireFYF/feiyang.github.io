@@ -34,6 +34,13 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10558606
     image: ./assets/img/defa24.png
 
+  - title: "A Continuous Digital Elevation Representation Model for DEM Super-resolution"
+    authors: Shun Yao, Yongmei Cheng, <strong>Fei Yang</strong>, Mikhail G Mozerov
+    conference_short: ISPRS 
+    conference: ISPRS Journal of Photogrammetry and Remote Sensing, 2024.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271624000017
+    image: ./assets/img/shun24.png
+
   - title: "ScrollNet: DynamicWeight Importance for Continual Learning"
     authors: <strong>Fei Yang</strong>, Kai Wang, Joost van de Weijer
     conference_short: ICCVW
@@ -77,9 +84,9 @@ main:
   - title: "DANICE: Domain Adaptation without Forgetting in Neural Image Compression"
     authors: Sudeep Katakol, Luis Herranz, <strong>Fei Yang</strong>, Marta Mrak
     conference_short: CVPRW
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPR)</strong>, 2021.
-    pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Slimmable_Compressive_Autoencoders_for_Practical_Neural_Image_Compression_CVPR_2021_paper.html
-    image: ./assets/img/fei21.png
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPRW)</strong>, 2021.
+    pdf: https://arxiv.org/abs/2104.09370
+    image: ./assets/img/sudeep21.png
 
   - title: "Variable Rate Deep Image Compression with Modulated Autoencoder"
     authors: <strong>Fei Yang</strong>, Luis Herranz, Joost Van De Weijer, José A Iglesias Guitián, Antonio M López, Mikhail G Mozerov
