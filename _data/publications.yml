@@ -27,6 +27,14 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/10558606
     image: ./assets/img/defa24.png
 
+  - title: "Dynamic Prompt Learning: Addressing Cross-attention Leakage for Text-based Image Editing"
+    authors: Kai Wang, <strong>Fei Yang</strong>, Shiqi Yang, Muhammad Atif Butt, Joost van de Weijer
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2309.15664
+    code: https://github.com/wangkai930418/DPL
+    image: ./assets/img/kai23.png
+
   - title: "Slimmable Compressive Autoencoder for Practical Neural Image Compression"
     authors: <strong>Fei Yang</strong>, Luis Herranz, Yongmei Cheng, Mikhail G Mozerov
     conference_short: CVPR
