@@ -34,3 +34,11 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Slimmable_Compressive_Autoencoders_for_Practical_Neural_Image_Compression_CVPR_2021_paper.html
     code: https://github.com/FireFYF/SlimCAE
     image: ./assets/img/fei21.png
+
+  - title: "Variable Rate Deep Image Compression with Modulated Autoencoder"
+    authors: <strong>Fei Yang</strong>, Luis Herranz, Joost Van De Weijer, José A Iglesias Guitián, Antonio M López, Mikhail G Mozerov
+    conference_short: SPL
+    conference: IEEE Signal Processing Letters, 2020.
+    pdf: https://arxiv.org/pdf/1912.05526
+    code: https://github.com/FireFYF/modulatedautoencoder
+    image: ./assets/img/fei20.png
