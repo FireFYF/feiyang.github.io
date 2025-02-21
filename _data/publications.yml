@@ -4,7 +4,6 @@ main:
     authors: Yifan Wang, <strong>Fei Yang</strong>, Luka Murn, Juil Sock, Marc Gorriz Blanch, Shuai Wan, Wei Zhang, Fuzheng Yang, Luis Herranz
     journal: Expert Systems with Applications.
     pdf: https://www.sciencedirect.com/science/article/pii/S0957417424024023
-    code: 
     image: ./assets/img/yifan25.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
