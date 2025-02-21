@@ -7,10 +7,9 @@
   <li><a href=""><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021/2023</autocolor></a></li>
   <li><a href=""><autocolor>European Conference on Computer Vision (ECCV) 2022/2024</autocolor></a></li>
   <li><a href=""><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2023/2024</autocolor></a></li>
-  <li><a href=""><autocolor>Conference on Neural Information Processing Systems (NeurIPS) 2023/2024</autocolor></a></li>
   <li><a href=""><autocolor>International Conference on Machine Learning (ICML) 2023</autocolor></a></li>
   <li><a href=""><autocolor>International Conference on Learning Representations (ICLR) 2024</autocolor></a></li>
-
+</ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
