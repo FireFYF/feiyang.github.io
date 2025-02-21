@@ -20,12 +20,28 @@ main:
     pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
     image: ./assets/img/zhaocheng24.png
 
+  - title: "Task-Switchable Pre-Processor for Image Compression for Multiple Machine Vision Tasks"
+    authors: Mingyi Yang, <strong>Fei Yang</strong>, Luka Murn, Marc Gorriz Blanch, Juil Sock, Shuai Wan, Fuzheng Yang, Luis Herranz
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10379180
+    image: ./assets/img/mingyi24.png
+
   - title: "Rate Control for Slimmable Video Codec using Multilayer Perceptron"
     authors: Defa Wang, Zhiwei Zhu, Shuai Wan, <strong>Fei Yang</strong>, Luis Herranz
     conference_short: ISCAS
     conference: IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10558606
     image: ./assets/img/defa24.png
+
+  - title: "ScrollNet: DynamicWeight Importance for Continual Learning"
+    authors: <strong>Fei Yang</strong>, Kai Wang, Joost van de Weijer
+    conference_short: ICCVW
+    conference: IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2023.
+    pdf: https://arxiv.org/abs/2308.16567
+    code: https://github.com/FireFYF/ScrollNet
+    note: Oral Presentation
+    image: ./assets/img/fei23.png
 
   - title: "Dynamic Prompt Learning: Addressing Cross-attention Leakage for Text-based Image Editing"
     authors: Kai Wang, <strong>Fei Yang</strong>, Shiqi Yang, Muhammad Atif Butt, Joost van de Weijer
@@ -35,12 +51,34 @@ main:
     code: https://github.com/wangkai930418/DPL
     image: ./assets/img/kai23.png
 
+  - title: "Slimseg: Slimmable Semantic Segmentation with Boundary Supervision"
+    authors: Danna Xue, <strong>Fei Yang</strong>, Pei Wang, Luis Herranz, Jinqiu Sun, Yu Zhu, Yanning Zhang
+    conference_short: ACMMM
+    conference: ACM International Conference on Multimedia <strong>(ACMMM)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2207.06242
+    image: ./assets/img/danna22.png
+
+  - title: "Attention Distillation: Self-supervised Vision Transformer Students Need More Guidance"
+    authors: Kai Wang, <strong>Fei Yang</strong>, Joost van de Weijer
+    conference_short: BMVC
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(BMVC)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2210.00944
+    code: https://github.com/wangkai930418/attndistill
+    image: ./assets/img/kai22.png
+
   - title: "Slimmable Compressive Autoencoder for Practical Neural Image Compression"
     authors: <strong>Fei Yang</strong>, Luis Herranz, Yongmei Cheng, Mikhail G Mozerov
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
     pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Slimmable_Compressive_Autoencoders_for_Practical_Neural_Image_Compression_CVPR_2021_paper.html
     code: https://github.com/FireFYF/SlimCAE
+    image: ./assets/img/fei21.png
+
+  - title: "DANICE: Domain Adaptation without Forgetting in Neural Image Compression"
+    authors: Sudeep Katakol, Luis Herranz, <strong>Fei Yang</strong>, Marta Mrak
+    conference_short: CVPRW
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops <strong>(CVPR)</strong>, 2021.
+    pdf: https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Slimmable_Compressive_Autoencoders_for_Practical_Neural_Image_Compression_CVPR_2021_paper.html
     image: ./assets/img/fei21.png
 
   - title: "Variable Rate Deep Image Compression with Modulated Autoencoder"
