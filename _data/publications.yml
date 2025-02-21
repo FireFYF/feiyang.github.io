@@ -7,7 +7,7 @@ main:
     image: ./assets/img/yifan25.png
   
   - title: A Slimmable Framework for Practical Neural Video Compression
-    authors: Zhaocheng Liu, Fei Yang, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
+    authors: Zhaocheng Liu, <strong>Fei Yang</strong>, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
     journal: Neurocomputing.
     pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
     image: ./assets/img/zhaocheng24.png
