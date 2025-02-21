@@ -2,15 +2,9 @@ main:
 
   - title: Enhanced Neural Video Compression for Cloud Gaming Videos with Aligned Frame Generation
     authors: Yifan Wang, <strong>Fei Yang</strong>, Luka Murn, Juil Sock, Marc Gorriz Blanch, Shuai Wan, Wei Zhang, Fuzheng Yang, Luis Herranz
-    journal: Expert Systems with Applications.
+    conference: Expert Systems with Applications, 2025.
     pdf: https://www.sciencedirect.com/science/article/pii/S0957417424024023
     image: ./assets/img/yifan25.png
-  
-  - title: A Slimmable Framework for Practical Neural Video Compression
-    authors: Zhaocheng Liu, <strong>Fei Yang</strong>, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
-    journal: Neurocomputing.
-    pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
-    image: ./assets/img/zhaocheng24.png
 
   - title: Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier
     authors: Kai Wang, <strong>Fei Yang</strong>, Bogdan Raducanu, Joost van de Weijer
@@ -19,11 +13,17 @@ main:
     pdf: https://arxiv.org/pdf/2410.22317
     code: https://github.com/wangkai930418/mc_ti
     image: ./assets/img/kai25.png
+  
+  - title: A Slimmable Framework for Practical Neural Video Compression
+    authors: Zhaocheng Liu, <strong>Fei Yang</strong>, Defa Wang, Marc Górriz Blanch, Luka Murn, Shuai Wan, Saiping Zhang, Marta Mrak, Luis Herranz
+    conference: Neurocomputing, 2024.
+    pdf: https://www.sciencedirect.com/science/article/pii/S0925231224012967
+    image: ./assets/img/zhaocheng24.png
 
   - title: Rate Control for Slimmable Video Codec using Multilayer Perceptron
     authors: Defa Wang, Zhiwei Zhu, Shuai Wan, <strong>Fei Yang</strong>, Luis Herranz
     conference_short: ISCAS
-    conference: 2024 IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2024.
+    conference: IEEE International Symposium on Circuits and Systems <strong>(ISCAS)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10558606
     image: ./assets/img/defa24.png
 
